@@ -1,0 +1,10 @@
+HDI - https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index
+
+ELECTRICITY - https://en.wikipedia.org/wiki/List_of_countries_by_electricity_consumption
+
+CALORIE INTAKE - https://en.wikipedia.org/wiki/List_of_countries_by_food_energy_intake
+
+LIFE EXPECTANCY - https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy
+
+IMPORTS - https://en.wikipedia.org/wiki/List_of_countries_by_imports
+
